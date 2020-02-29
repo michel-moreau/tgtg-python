@@ -40,9 +40,9 @@ class TgtgClient:
         headers = {
             "user-agent": random.choice(
                 [
-                    "TGTG/19.6.1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 5 Build/M4B30Z)",
-                    "TGTG/19.6.1 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G935F Build/NRD90M)",
-                    "TGTG/19.6.1 Dalvik/2.1.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) ",
+                    "TGTG/20.1.1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus 5 Build/M4B30Z)",
+                    "TGTG/20.1.1 Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G935F Build/NRD90M)",
+                    "TGTG/20.1.1 Dalvik/2.1.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) ",
                 ]
             )
         }
