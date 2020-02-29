@@ -7,7 +7,7 @@ import requests
 from .exceptions import TgtgAPIError, TgtgLoginError
 
 BASE_URL = "https://apptoogoodtogo.com/"
-API_ITEM_ENDPOINT = "api/item/v1/"
+API_ITEM_ENDPOINT = "api/item/v4/"
 LOGIN_ENDPOINT = "index.php/api_tgtg/login"
 ALL_BUSINESS_ENDPOINT = "index.php/api_tgtg/list_all_business_map_v5_gz"
 
